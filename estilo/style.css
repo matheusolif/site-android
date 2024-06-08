@@ -132,6 +132,12 @@ main img {
   width: 100%;
 }
 
+.pequena {
+  max-width: 350px;
+  display: block;
+  margin: auto;
+}
+
 div.video {
   background-color: var(--color06);
   margin: 0px -20px 30px -20px;
@@ -149,11 +155,6 @@ div.video > iframe {
 
 }
 
-.pequena {
-  max-width: 350px;
-  display: block;
-  margin: auto;
-}
 
 aside {
   background-color: var(--color01);
